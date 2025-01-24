@@ -10,7 +10,7 @@ Sou Filipe Queiroz, engenheiro de software com experiência em Java, JavaScript 
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Filipe-Queiroz&repo=Efood.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Filipe-Queiroz&repo=JavaBancoDeDados.github.io&theme=dark)](https://github.com/Filipe-Queiroz/JavaBancoDeDados)
 
 
 ### Linguagens utilizadas
