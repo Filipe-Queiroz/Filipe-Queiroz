@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 I’m Filipe Queiroz, a developer with experience in Java, JavaScript, and Python, as well as skills in conducting tests.<br><br>🚀 I have solid knowledge in React, Spring Boot, Maven, Docker, and PostgreSQL, applying best practices like Clean Code and modern architectures, including microservices.<br><br>📂 My journey combines administrative experience with a passion for technology, allowing me to develop robust and well-structured projects.<br><br>🎯 I am always looking for challenges that drive my professional growth, contributing with efficient and high-quality solutions.</p>
+<p align="left">💻 I’m a developer with experience in Java, JavaScript, and Python, as well as skills in conducting tests.<br><br>🚀 I have solid knowledge in React, Spring Boot, Maven, Docker, and PostgreSQL, applying best practices like Clean Code and modern architectures, including microservices.<br><br>📂 My journey combines administrative experience with a passion for technology, allowing me to develop robust and well-structured projects.<br><br>🎯 I am always looking for challenges that drive my professional growth, contributing with efficient and high-quality solutions.</p>
 
 ###
 
