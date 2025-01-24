@@ -15,7 +15,7 @@ Sou Filipe Queiroz, engenheiro de software com experiência em Java, JavaScript 
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogithub1406&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Queiroz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
