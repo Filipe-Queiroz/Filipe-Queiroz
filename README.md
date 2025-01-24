@@ -1,17 +1,12 @@
-### Olá 👋
+### Olá! Eu sou Filipe Queiroz 👋
 
 ###### Sobre mim
-Sou Filipe Queiroz, engenheiro de software com experiência em Java, JavaScript e Python, além de habilidades em testes unitários e automatizados.
+Sou engenheiro de software com experiência em Java, JavaScript e Python, além de habilidades em testes unitários e automatizados.
 
 
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe-Queiroz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Filipe-Queiroz&repo=Efood.github.io&theme=dark)](https://github.com/Filipe-Queiroz/Efood.github.io)
-
 
 ### Linguagens utilizadas
 
