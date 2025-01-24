@@ -46,9 +46,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Filipe-Queiroz/Filipe-Queiroz/output/snake.svg" alt="Snake animation" />
-
-###
